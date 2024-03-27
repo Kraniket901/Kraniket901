@@ -5,6 +5,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=800&height=100&lines=Undergrad+@+NIT Raipur+🎓;Skilled+in+ReactJS,+NextJS,+TypeScript+💪;Front+End+Developer+💻;8×+Hackathon+Finalist+🎯;500+DSA+@+LeetCode+and+GFG+✍🏼;"></a>
 </p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=800&height=100&lines=Undergrad+@+NIT Raipur..🎓;Skilled+in+ReactJS,+NextJS,+TypeScript..💪;Front+End+Developer+💻;8×+Hackathon+Finalist..🎯;500+DSA+@+LeetCode+and+GFG..✍🏼"></a>
+</p>
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
